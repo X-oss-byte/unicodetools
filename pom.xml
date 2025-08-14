@@ -43,7 +43,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- Fix the JUnit version -->
-        <junit-version>5.7.2</junit-version>
+        <junit-version>5.13.4</junit-version>
         <!-- Need to use an updated surefire plugin here. -->
         <maven-surefire-plugin-version>3.0.0-M5</maven-surefire-plugin-version>
 
